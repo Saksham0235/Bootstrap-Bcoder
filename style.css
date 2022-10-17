@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding:0%
+}
+
+/* .card-item{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+} */
+body{
+    background-color: black;
+}
+
+.caraousel-item::before{
+    content:"";
+    display: block;
+    position: absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    background-color: #000;
+    opacity: 0.7;
+}
+.carousel-caption{
+    bottom:100px;
+}

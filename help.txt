@@ -1,0 +1,8 @@
+for margin class ke saath mei my-4 it will give you margin in y(vertical)
+mx in x(horizontal) axis
+ml - left margin
+mr -right margin
+
+pending --
+opacity in carousel
+ 
